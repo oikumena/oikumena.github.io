@@ -1,0 +1,55 @@
+.item {
+  margin-right: 4em;
+  margin-bottom: 2em;
+  background: #fff;
+}
+
+.thumbnail {
+  width: 225px;
+  height: 450px;
+  overflow: hidden;
+}
+
+.thumbnail h3 {
+  color: orange;
+}
+
+a {
+  text-decoration: underline !important;
+  color: black !important;
+}
+
+.heading {
+  clear: both;
+  padding-top: 2em;
+  margin-bottom: 4em;
+}
+
+.color {
+  padding: 1em;
+  border-left: .2em solid gold;
+}
+
+.copy {
+  width: 100%;
+  clear: both;
+  margin-bottom: 2em;
+  text-align: right;
+  font-size: 1em;
+  font-weight: bolder;
+}
+
+.copy a {
+  text-decoration: none !important;
+}
+
+address {
+  display: inline;
+  font-style: normal;
+}
+
+li a {
+  display: block;
+  padding: .5em;
+  padding-left: 0;
+}
